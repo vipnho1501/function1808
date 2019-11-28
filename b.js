@@ -12,3 +12,6 @@ function doSth(fn) {
 }
 
 doSth(function (x) { console.log(x * 2) });
+console.log('hello');
+// FUNCTION LÀ MỘT GIÁ TRỊ
+
